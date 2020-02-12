@@ -22,7 +22,7 @@ Cython==0.28.2
 cytoolz==0.8.2
 decorator==4.2.1
 dill==0.2.7.1
-Django==1.11.8
+Django==1.11.28
 django-markdown-deux==1.0.5
 entrypoints==0.2.3
 ftfy==4.4.3
