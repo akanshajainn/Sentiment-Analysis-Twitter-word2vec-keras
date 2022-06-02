@@ -33,7 +33,7 @@ geoplotlib==0.3.2
 geopy==1.11.0
 grpcio==1.11.0
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 ipykernel==4.8.0
 ipython==6.2.1
