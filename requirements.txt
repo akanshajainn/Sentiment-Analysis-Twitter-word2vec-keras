@@ -80,7 +80,7 @@ plac==0.9.6
 plotly==2.5.0
 preshed==1.0.0
 prompt-toolkit==1.0.15
-protobuf==3.5.2.post1
+protobuf==3.18.3
 ptyprocess==0.5.2
 py3==1.0.1
 pycodestyle==2.4.0
